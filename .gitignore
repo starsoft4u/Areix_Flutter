@@ -1,0 +1,8 @@
+build
+*.lock
+android
+ios
+.dart_tool/package_config.json
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
